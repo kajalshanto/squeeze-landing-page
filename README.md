@@ -5,4 +5,5 @@
 ### CSS3
 ### BOOTSTRAP 4
 ### JAVASCRIPT
-## Project Overlook: 
+## GTmetrix Score: 
+![alt text](https://github.com/kajalshanto/squeeze-landing-page/blob/master/gtMetrix.png)
