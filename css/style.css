@@ -52,7 +52,7 @@ a.nav-link:hover {
     margin-left: 0px;
 }
 svg { 
-    margin-bottom: -1px;
+    margin-bottom: -1px !important;
 } 
 /**************************************************
 *** NAVBAR
